@@ -9,3 +9,8 @@
 #### Left arrow - To move left
 #### Right arrow - To move right
 #### Enter - To restart the game
+## ScreenShots
+## ScreenShots
+#### ![SS1](https://raw.githubusercontent.com/PriyanshuPraneet/Space_Arcade/main/ss1.PNG)
+#### ![SS2](https://raw.githubusercontent.com/PriyanshuPraneet/Space_Arcade/main/ss2.PNG)
+#### ![SS3](https://raw.githubusercontent.com/PriyanshuPraneet/Space_Arcade/main/ss3.PNG)
